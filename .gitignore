@@ -1,0 +1,16 @@
+# Excluded files
+*.log
+*.env
+*.DS_Store
+.tern-project
+package-lock.json
+
+# Webstorm
+*.idea
+
+# All modules
+node_modules
+
+# Outils de dev
+app/tools/dev
+v2/docs/
